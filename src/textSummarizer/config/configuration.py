@@ -7,6 +7,7 @@ from textSummarizer.entity import (DataIngestionConfig,
                                    ModelEvaluationConfig)
 
 
+
 class ConfigurationManager:
     def __init__(
         self,
